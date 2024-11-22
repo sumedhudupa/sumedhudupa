@@ -96,7 +96,7 @@ Here are some ideas to get you started:
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/sumedhudupa/sumedhudupa/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/sumedhudupa/sumedhudupa/.github/workflows/snake.yml" alt="Snake animation" />
 
 ###
 <h3 align="center">I'm a coding enthusiast with a passion for building cool things and solving interesting problems. I love exploring new technologies and learning along the way. Whether it's building full-stack web applications, diving into algorithms, or contributing to open-source projects, I enjoy every part of the development process.</h3>
